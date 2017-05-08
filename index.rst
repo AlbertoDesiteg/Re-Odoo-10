@@ -1,5 +1,5 @@
 :main-title: Fundamentos de Desarrollo
-:banner: banners/index.jpg
+:banner: banners/index.jpg 
 
 =====
 Index
