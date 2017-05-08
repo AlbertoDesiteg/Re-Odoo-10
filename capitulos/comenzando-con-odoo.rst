@@ -4,8 +4,8 @@
 Capítulo 1 - Iniciando
 ======================
 
-Comenzando con Odoo
-===================
+Comenzando con Odoo hola
+========================
 
 Antes de sumergirse en el desarrollo de Odoo, es necesario configurar el
 entorno de desarrollo, y para esto se debe aprender las tareas básicas
